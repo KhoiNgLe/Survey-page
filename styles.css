@@ -1,0 +1,60 @@
+html{
+  font-family: 'Work Sans', sans-serif;
+  font-size:1.5rem;
+}
+
+.background-page-color{
+  background-color: #F6F6F6;
+}
+
+
+#header{
+text-align: center;
+}
+.top-img{
+  vertical-align:middle;
+  margin:auto auto 20px auto;
+  width: 20%;
+}
+
+.page-color{
+  background-color: #D9CAB3;
+}
+
+.page{
+  border-style: solid;
+  padding: 60px 0;
+  margin: 15%;
+  background-color:#212121;
+  border-radius: 20px;
+}
+
+.name-width{
+  width: 100%;
+}
+
+
+#title{
+text-align: center;
+color:#F6F6F6;
+}
+
+body{
+  padding: 1% 15%;
+  margin: 0;
+  line-height: 2;
+
+}
+
+#survey-form{
+  margin: auto;
+  width :60%;
+  color:#F6F6F6;
+}
+
+#email{
+  width : 100%;
+}
+.container{
+  padding:0;
+}
